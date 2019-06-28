@@ -1,0 +1,430 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+	margin: 0px;
+}
+.container-fluid {
+	padding: 0px;
+}
+header {
+	height: 967px;
+	background-image: url(../img/Back_header.jpg);
+	background-repeat: no-repeat;
+	background-position: center center; 
+}
+header div.menu {
+	height: 136px;
+	background: rgba(0, 0, 0, 0.6);
+}
+header div.menu a img {
+	display: block;
+	padding-left: 100px;
+	padding-top: 50px;
+}
+header nav ul {
+	list-style-type: none;
+	padding-right: 50px;
+	margin: 0;
+}
+header nav ul li{
+	display: inline-block; 
+	margin-right: 50px;
+	padding-left: 0px;
+}
+header nav ul li a{
+	color: rgb(255, 255, 255);
+	font-size: 18px;
+	text-decoration: none;
+}
+header nav ul li a:hover{
+	color: #39b9ef;
+	text-decoration: underline;
+}
+header div.coll-to h1 {
+	margin-top: 250px;
+	text-align: center;
+	color: #fff;
+	font-size: 72px;
+	font-weight: bold; 
+	margin-bottom: 0px;
+
+}
+header div.coll-to h1 span {
+	color: #39b9ef
+}
+header div.coll-to p {
+	text-align: center;
+	color: #fff;
+	font-size: 24px;
+	margin-top: 20px;
+}
+header div.coll-to a {
+	display: block;
+	width: 215px;
+	height: 50px;
+	background: #39b9ef;
+	text-decoration: none;
+	color: #fff;
+	font-size: 18px;
+	border-radius: 25px;
+	text-align: center;
+	margin: 0 auto;
+	line-height: 48px;
+	font-weight: bold;
+}
+/***************************
+*****Our services********
+***********************/ 
+
+div.bacgroud_servises {
+	background-image: url(../img/bacgroud_servises.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+	padding-bottom: 140px;
+}
+section.Our_services h2 {
+	color: #242424;
+	font-size: 48px;
+	margin-top: 80px;
+	text-align: center;
+	border-bottom: 1px solid #e7e7e7;
+	padding-bottom: 80px;
+	margin-bottom: 80px;
+}
+section.Our_services div.services {
+	margin-top: 80px;
+}
+div.services img {
+	display: block;
+	margin-bottom: 50px;
+}
+div.services div h3 {
+	color: #242424;
+	font-size: 24px;
+	margin-bottom: 34px;	
+}
+div.services p {
+	color: #878787;
+	font-size: 14px;
+	margin-bottom: 68px;
+	font-weight: bold;
+	line-height:24px;
+}
+section.Our_services a{
+	display: block;
+	width: 150px;
+	height: 44px;
+	background: #39b9ef;
+	text-decoration: none;
+	color: #fff;
+	font-size: 14px;
+	border-radius: 22px;
+	text-align: center;
+	margin: 0 auto;
+	line-height: 44px;
+	font-weight: bold;
+	margin-bottom: 68px;
+}
+/**************************
+*****servises2*******
+***********************/
+div.servises2 {
+	margin-top: 180px;
+}
+div.servises2 h3 {
+	color: #242424;
+	font-size: 36px;
+	margin-bottom: 34px;
+}
+div.servises2 p{
+	color: #878787;
+	font-size: 14px;
+	margin-bottom: 68px;
+	font-weight: bold;
+	line-height:30px;
+	max-width: 520px;
+}
+#Show_more1 {
+	margin: 0 0;
+}
+div.servises3 {
+	margin-top: 240px;
+	margin-bottom: 100px;
+}
+div.servises3 div.serv_2 {
+	padding-left: 100px;
+}
+div.servises3 h3 {
+	color: #ffffff;
+	font-size: 36px;
+	margin-bottom: 34px;
+}
+div.servises3 p{
+	color: #ffffff;
+	font-size: 14px;
+	margin-bottom: 68px;
+	font-weight: bold;
+	line-height:30px;
+	max-width: 520px;
+}
+#Show_more2 {
+	margin: 0 0;
+	color: #39b9ef;
+	background: #ffffff;
+}
+/*******************
+****section boy*****
+******************/
+section.boy {
+	height: 633px;
+}
+section.boy div img {
+	max-width: 100%;
+}
+section.boy div h3 {
+	font-size: 72px;
+	color: #000;
+	max-width: 600px;
+	padding-left: 80px;
+}
+section.boy p {
+	padding-left: 80px;
+	max-width: 600px;
+	color: #878787;
+	font-weight: bold;
+}
+section.boy a {
+	display: block;
+	width: 150px;
+	height: 44px;
+	background: #39b9ef;
+	text-decoration: none;
+	color: #fff;
+	font-size: 14px;
+	border-radius: 22px;
+	text-align: center;
+	margin-left:80px;
+	line-height: 44px;
+	font-weight: bold;
+	margin-top: 70px;
+}.
+/*******************
+****section podboy*****
+******************/
+section.podboy div {
+	height: 430px;
+}
+section.podboy div.podboy1 {
+	background-image: url(../img/back_podboy1.png);
+	min-height: 430px;
+	background-repeat: no-repeat;
+	background-position: center center; 
+}
+section.podboy div.podboy1:hover {
+	background-image: url(../img/back_podboy1_hover.png);
+} 
+section.podboy div.podboy2 {
+	background-image: url(../img/back_podboy2.png);
+	min-height: 430px;
+	background-repeat: no-repeat;
+	background-position: center center; 
+}
+section.podboy div.podboy2:hover {
+	background-image: url(../img/back_podboy2_hover.png);
+} 
+section.podboy div.podboy3 {
+	background-image: url(../img/back_podboy3.png);
+	min-height: 430px;
+	background-repeat: no-repeat;
+	background-position: center center; 
+}
+section.podboy div.podboy3:hover {
+	background-image: url(../img/back_podboy3_hover.png);
+} 
+section.podboy div.podboy4 {
+	background-image: url(../img/back_podboy4.png);
+	min-height: 430px;
+	background-repeat: no-repeat;
+	background-position: center center; 
+}
+section.podboy div.podboy4:hover {
+	background-image: url(../img/back_podboy4_hover.png);
+} 
+section.podboy div div h4 {
+	font-size: 48px;
+	color: #fff;
+	padding-left: 55px;
+	max-width: 400px;
+	padding-top: 100px;
+	font-weight: bold;
+}
+/*******************
+****section check_our*****
+******************/
+section.check_our {
+	height: 850px;
+
+} 
+section.check_our div h2 {
+	font-size: 72px;
+	color: #242424;
+
+}
+section.check_our div h2 span {
+	color: #2ebaee;
+}
+section.check_our div img {
+	display: block;
+	margin: 0 auto;
+	width: 235px;
+	height: 235px;
+	margin-top: 35px;
+}
+section.check_our div.name {
+	color: #242424;
+	font-size: 34px;
+	text-align: center;
+	margin-top: 33px;
+}
+section.check_our div span.ceo {
+	display: block;
+	text-align: center;
+	color: #878787;
+	font-size: 14px;
+	font-weight: bold;
+}
+section.check_our div a {
+	display: block;
+	width: 150px;
+	height: 44px;
+	background: #39b9ef;
+	text-decoration: none;
+	color: #fff;
+	font-size: 14px;
+	border-radius: 22px;
+	text-align: center;
+	margin:0 auto;
+	line-height: 44px;
+	font-weight: bold;
+	margin-top: 25px;
+}
+/*******************
+****section footer*****
+******************/
+section.footer {
+	height: 720px;
+	background-image: url(../img/bacgroud_footer.png);
+	background-position: center center;
+	background-repeat: no-repeat;
+}
+section.footer div.conta {
+	color: #fff;
+	font-size: 72px;
+	font-weight: bold;
+	margin-top: 115px;
+}
+section.footer p.cmoll{
+	color: #878787;
+	font-size: 14px;
+	margin-top: 30px;
+}
+section.footer p {
+	color: #878787;
+	font-size: 32px;
+	margin: 24px;
+}
+section.footer p span {
+	color: #2ebaee;
+}
+section.footer ul {
+	list-style-type: none;
+	margin-top: 70px;
+	padding: 0; 
+}
+section.footer ul li{
+	display: inline-block;
+	width: 55px;
+	margin-right: 37px;
+}
+section.footer input[type="text"], section.footer input[type="email"] {
+	height: 60px;
+	width: 635px;
+	background: none;
+	border-radius: 6px;
+	border: 1px solid #535353;
+	color: #FFF;
+	font-size: 17px;
+	padding-left: 30px;
+	margin: 20px auto;
+}section.footer input[type="text"] {
+	margin-top: 126px;
+}
+section.footer textarea {
+	width: 635px;
+	height: 200px;
+	background: none;
+	border-radius: 6px;
+	border: 1px solid #535353;
+	color: #FFF;
+	font-size: 17px;
+	padding-left: 30px;
+	margin: 20px auto;
+	resize: none;
+}
+section.footer button {
+	display: block;
+	width: 150px;
+	height: 44px;
+	background: #39b9ef;
+	text-decoration: none;
+	color: #fff;
+	font-size: 14px;
+	border-radius: 22px;
+	text-align: center;
+	margin:0 auto;
+	line-height: 44px;
+	font-weight: bold;
+	margin-top: 25px;
+	border: none;
+}
+footer {
+	height: 136px;
+	background: #000;
+}
+footer p, footer ul {
+	list-style-type: none;margin-top: 60px;
+	padding: 0;
+	color: #fff;	
+}
+footer ul li {
+	display: inline-block;
+	margin-right: 20px;
+}
+footer ul li a {
+	color: #fff;
+	font-size: 14px;
+	text-decoration: none;
+}
+footer ul li a:hover {
+	color: #2ebaee
+	text-decoration: underline; 
+}
+
+
+/******************* bhj
+****Adaptation*****
+******************/
+// Extra small devices (portrait phones, less than 576px)
+@media (max-width: 575.98px) { ... }
+
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) and (max-width: 767.98px) { ... }
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) and (max-width: 991.98px) { ... }
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) and (max-width: 1199.98px) { ... }
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }
+ bhj
